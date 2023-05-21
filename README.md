@@ -10,8 +10,8 @@ Live link will be added soon...
 - [x] Find images for sidebar
 - [x] Write sidebar html
 - [x] Edit SVG's to white PNGs
-- [ ] Write header html
-- [ ] Find profile img, search img, alert img
+- [x] Write header html
+- [x] Find profile img, search img, alert img
 - [ ] Fix Layout
 - [ ] Fix Layout inside content div
 - [ ] Add announcements section
