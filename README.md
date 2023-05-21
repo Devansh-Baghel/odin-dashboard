@@ -9,7 +9,7 @@ Live link will be added soon...
 - [x] Find a color palette
 - [x] Find images for sidebar
 - [x] Write sidebar html
-- [ ] Edit SVG's to white PNGs
+- [x] Edit SVG's to white PNGs
 - [ ] Write header html
 - [ ] Find profile img, search img, alert img
 - [ ] Fix Layout
