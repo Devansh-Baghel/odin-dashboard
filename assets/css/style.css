@@ -1,3 +1,73 @@
-body{
-	background-color: blue;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+:root {
+  --orange: #EB5E28;
+  --black: #252422;
+  --darkgrey: #403d39;
+  --lightgrey: #ccc5b9;
+  --white: #fffcf2;
 }
+
+ul li {
+  list-style: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 1fr 4fr;
+  -ms-grid-columns: 1fr 3.5fr;
+      grid-template: 1fr 4fr / 1fr 3.5fr;
+}
+
+.sidebar {
+  -ms-grid-row: 1;
+  -ms-grid-row-span: 2;
+  grid-row: 1 / 3;
+  background-color: var(--orange);
+  color: white;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 100px 400px;
+  -ms-grid-columns: 100px 200px;
+      grid-template: 100px 400px / 100px 200px;
+}
+
+.sidebar > img {
+  width: 60px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.sidebar h2 {
+  -ms-grid-column-align: start;
+      justify-self: start;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  font-size: 28px;
+}
+
+.sidebar ul {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 2;
+  grid-column: 1/3;
+  font-size: 20px;
+  line-height: 50px;
+}
+
+.sidebar ul img {
+  width: 20px;
+  margin-right: 20px;
+  margin-bottom: -3px;
+}
+
+.sidebar ul li:nth-child(6) {
+  margin-bottom: 100px;
+}
+/*# sourceMappingURL=style.css.map */
