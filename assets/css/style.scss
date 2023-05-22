@@ -102,3 +102,37 @@ body{
 		font-weight: 500;
 	}
 }
+
+.nav-2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+
+	img{
+		width: 80px;
+	}
+
+	p{
+		margin-bottom: -20px;
+		font-weight: 500;
+	}
+
+	.name-wrapper{
+		margin-right: 10vw;
+	}
+
+	button{
+		background-color: var(--orange);
+		border: none;
+		color: white;
+		font-size: 16px;
+		padding: 10px 30px;
+		border-radius: 20px;
+		font-weight: 500;
+	}
+
+	h2{
+		font-weight: 600;
+	}
+}

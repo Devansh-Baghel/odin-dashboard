@@ -118,4 +118,44 @@ body {
   font-size: 18px;
   font-weight: 500;
 }
+
+.nav-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 20px;
+}
+
+.nav-2 img {
+  width: 80px;
+}
+
+.nav-2 p {
+  margin-bottom: -20px;
+  font-weight: 500;
+}
+
+.nav-2 .name-wrapper {
+  margin-right: 10vw;
+}
+
+.nav-2 button {
+  background-color: var(--orange);
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+.nav-2 h2 {
+  font-weight: 600;
+}
 /*# sourceMappingURL=style.css.map */
