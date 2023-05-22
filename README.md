@@ -12,9 +12,11 @@ Live link will be added soon...
 - [x] Edit SVG's to white PNGs
 - [x] Write header html
 - [x] Find profile img, search img, alert img
-- [ ] Fix Layout
-- [ ] Fix Layout inside content div
+- [x] Add your projects section
+- [x] Find star, view, fork icon
 - [ ] Add announcements section
 - [ ] Add trending section
-- [ ] Add your projects section
+- [ ] Find four profile icons
+- [ ] Fix Layout
+- [ ] Fix Layout inside content div
 - [ ] Make it all look good :/
