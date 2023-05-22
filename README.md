@@ -14,8 +14,8 @@ Live link will be added soon...
 - [x] Find profile img, search img, alert img
 - [x] Add your projects section
 - [x] Find star, view, fork icon
-- [ ] Add announcements section
-- [ ] Add trending section
+- [x] Add announcements section
+- [x] Add trending section
 - [ ] Find four profile icons
 - [ ] Fix Layout
 - [ ] Fix Layout inside content div
