@@ -17,6 +17,7 @@ Live link will be added soon...
 - [x] Add announcements section
 - [x] Add trending section
 - [ ] Find four profile icons
+- [ ] Make overall ui smaller
 - [ ] Fix Layout
 - [ ] Fix Layout inside content div
 - [ ] Make it all look good :/
