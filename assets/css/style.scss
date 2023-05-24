@@ -143,7 +143,7 @@ body{
 	padding: 30px;
 
 	display: grid;
-	grid-template-rows: 600px 1fr;
+	grid-template-rows: 550px 1fr;
 	grid-template-columns: 3fr 1.3fr;
 
 	h2{
@@ -173,6 +173,8 @@ body{
 		background-color: white;
 		border-left: 15px solid var(--orange);
 		border-radius: 10px;
+
+		min-height: 263px;
 
 		padding: 20px;
 	}
@@ -213,7 +215,7 @@ body{
 	display: grid;
 	grid-template-columns: 1fr 3fr;
 	grid-template-rows: repeat(8, 50px);
-	column-gap: 10px;
+	padding: 10px 30px;
 
 	img{
 		align-self: center;
