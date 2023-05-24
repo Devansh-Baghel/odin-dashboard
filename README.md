@@ -1,9 +1,9 @@
 # Dashboard
+[Live Demo](https://devansh-baghel.github.io/odin-dashboard/)
+
 This is my submission of [TOP's Dashboard Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard).
 
 Trying to create something like [this](https://cdn.statically.io/gh/TheOdinProject/curriculum/43cc6ab69fdfbef40d431a65677d2144668930ac/intermediate_html_css/grid/project_admin_dashboard/imgs/dashboard-project.png).
-
-Live link will be added soon...
 
 ## Todo
 - [x] Find a color palette
@@ -16,8 +16,17 @@ Live link will be added soon...
 - [x] Find star, view, fork icon
 - [x] Add announcements section
 - [x] Add trending section
+- [x] Make overall ui smaller
+- [x] Fix Layout
+- [x] Fix Layout inside content div
+- [x] Make it all look good :/
 - [ ] Find four profile icons
-- [ ] Make overall ui smaller
-- [ ] Fix Layout
-- [ ] Fix Layout inside content div
-- [ ] Make it all look good :/
+- [ ] Add live link
+- [ ] Remove zoom effect from js and make ui smaller via css
+- [ ] Finishing touches
+	- [ ] Hover effects
+	- [ ] Fix overflow issues in smaller screens
+	- [ ] Align card icons to right
+	- [ ] Add a custom sidebar
+	- [ ] Change theme maybe?
+	- [ ] Make css cleaner
