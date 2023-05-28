@@ -3,8 +3,6 @@
 
 This is my submission of [TOP's Dashboard Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard).
 
-Trying to create something like [this](https://cdn.statically.io/gh/TheOdinProject/curriculum/43cc6ab69fdfbef40d431a65677d2144668930ac/intermediate_html_css/grid/project_admin_dashboard/imgs/dashboard-project.png).
-
 ## Todo
 - [x] Find a color palette
 - [x] Find images for sidebar
@@ -21,7 +19,7 @@ Trying to create something like [this](https://cdn.statically.io/gh/TheOdinProje
 - [x] Fix Layout inside content div
 - [x] Make it all look good :/
 - [ ] Find four profile icons
-- [ ] Add live link
+- [x] Add live link
 - [ ] Remove zoom effect from js and make ui smaller via css
 - [ ] Finishing touches
 	- [ ] Hover effects
