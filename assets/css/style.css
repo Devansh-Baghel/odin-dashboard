@@ -200,12 +200,26 @@ body {
       grid-template-rows: repeat(3, 1fr);
 }
 
-.projects-grid div {
+.projects-grid > div {
   background-color: white;
   border-left: 15px solid var(--blue);
   border-radius: 10px;
   min-height: 263px;
   padding: 20px;
+}
+
+.projects-grid .actions {
+  margin-top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 20px;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .announcements-card,

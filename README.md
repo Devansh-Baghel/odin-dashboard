@@ -25,7 +25,7 @@ This is my submission of [TOP's Dashboard Project](https://www.theodinproject.co
 - [ ] Finishing touches
 	- [ ] Hover effects
 	- [ ] Fix overflow issues in smaller screens
-	- [ ] Align card icons to right
+	- [x] Align card icons to right
 	- [ ] Add a custom sidebar
 	- [x] Change theme maybe?
 	- [ ] Make css cleaner

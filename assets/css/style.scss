@@ -170,7 +170,7 @@ body{
 	grid-template-columns: repeat(2, .47fr);
 	grid-template-rows: repeat(3, 1fr);
 
-	div{
+	>div{
 		background-color: white;
 		border-left: 15px solid var(--blue);
 		border-radius: 10px;
@@ -178,6 +178,14 @@ body{
 		min-height: 263px;
 
 		padding: 20px;
+	}
+
+	.actions{
+		margin-top: 80px;
+		display: flex;
+		gap: 20px;
+		justify-content: end;
+		align-items: center;
 	}
 }
 
