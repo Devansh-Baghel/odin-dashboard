@@ -20,6 +20,7 @@ This is my submission of [TOP's Dashboard Project](https://www.theodinproject.co
 - [x] Make it all look good :/
 - [x] Find four profile icons
 - [x] Add live link
+- [x] Fix sidebar overflow
 - [ ] Remove zoom effect from js and make ui smaller via css
 - [ ] Finishing touches
 	- [ ] Hover effects
@@ -28,4 +29,3 @@ This is my submission of [TOP's Dashboard Project](https://www.theodinproject.co
 	- [ ] Add a custom sidebar
 	- [x] Change theme maybe?
 	- [ ] Make css cleaner
-- [ ] Fix sidebar overflow

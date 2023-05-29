@@ -18,9 +18,9 @@ body {
   font-family: 'Poppins', sans-serif;
   display: -ms-grid;
   display: grid;
-  -ms-grid-rows: 1fr 12fr;
+  -ms-grid-rows: 1fr 5fr;
   -ms-grid-columns: 1fr 3.5fr;
-      grid-template: 1fr 12fr / 1fr 3.5fr;
+      grid-template: 1fr 5fr / 1fr 3.5fr;
 }
 
 .sidebar {
