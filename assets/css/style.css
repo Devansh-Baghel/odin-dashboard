@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 :root {
   --orange: #EB5E28;
+  --blue: #0084ff;
   --black: #252422;
   --darkgrey: #403d39;
   --lightgrey: #ccc5b9;
@@ -26,7 +27,7 @@ body {
   -ms-grid-row: 1;
   -ms-grid-row-span: 2;
   grid-row: 1 / 3;
-  background-color: var(--orange);
+  background-color: var(--blue);
   color: white;
   display: -ms-grid;
   display: grid;
@@ -111,7 +112,7 @@ body {
 }
 
 .nav-1 input:focus {
-  outline: 2px solid var(--orange);
+  outline: 2px solid var(--blue);
 }
 
 .nav-1 span {
@@ -146,7 +147,7 @@ body {
 }
 
 .nav-2 button {
-  background-color: var(--orange);
+  background-color: var(--blue);
   border: none;
   color: white;
   font-size: 16px;
@@ -201,7 +202,7 @@ body {
 
 .projects-grid div {
   background-color: white;
-  border-left: 15px solid var(--orange);
+  border-left: 15px solid var(--blue);
   border-radius: 10px;
   min-height: 263px;
   padding: 20px;

@@ -26,5 +26,6 @@ This is my submission of [TOP's Dashboard Project](https://www.theodinproject.co
 	- [ ] Fix overflow issues in smaller screens
 	- [ ] Align card icons to right
 	- [ ] Add a custom sidebar
-	- [ ] Change theme maybe?
+	- [x] Change theme maybe?
 	- [ ] Make css cleaner
+- [ ] Fix sidebar overflow
