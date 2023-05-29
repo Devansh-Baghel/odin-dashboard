@@ -18,7 +18,7 @@ This is my submission of [TOP's Dashboard Project](https://www.theodinproject.co
 - [x] Fix Layout
 - [x] Fix Layout inside content div
 - [x] Make it all look good :/
-- [ ] Find four profile icons
+- [x] Find four profile icons
 - [x] Add live link
 - [ ] Remove zoom effect from js and make ui smaller via css
 - [ ] Finishing touches
