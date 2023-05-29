@@ -48,7 +48,9 @@ body{
 		grid-column: 1/3;
 
 		font-size: 20px;
-		line-height: 50px;
+		li{
+			margin-bottom: 25px;
+		}
 
 		img{
 			width: 20px;
@@ -254,4 +256,20 @@ body{
 	img:nth-child(10){
 		grid-row: 7/9;
 	}
+}
+
+// ---------- Hover Effects ----------
+
+button:hover{
+	background-color: rgb(56, 165, 255);
+	cursor: pointer;
+}
+
+.actions img:hover{
+	cursor: pointer;
+}
+
+ul li:hover{
+	cursor: pointer;
+	color: rgb(228, 228, 228);
 }

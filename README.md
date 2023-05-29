@@ -23,9 +23,12 @@ This is my submission of [TOP's Dashboard Project](https://www.theodinproject.co
 - [x] Fix sidebar overflow
 - [ ] Remove zoom effect from js and make ui smaller via css
 - [ ] Finishing touches
-	- [ ] Hover effects
-	- [ ] Fix overflow issues in smaller screens
+	- [x] Hover effects
 	- [x] Align card icons to right
-	- [ ] Add a custom sidebar
 	- [x] Change theme maybe?
+	- [ ] Fix overflow issues in smaller screens
+	- [ ] Add a custom scrollbar
 	- [ ] Make css cleaner
+	- [ ] Add image alts
+	- [ ] Add easter eggs
+	- [ ] Make all ul li's links
